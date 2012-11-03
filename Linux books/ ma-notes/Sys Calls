@@ -1,0 +1,21 @@
+System calls note
+------------------------------------
+------------------------------------
+
+
+Files(Seven Types)
+=====
+1)- Reguler
+2)d Directory
+3)b Blck Device	for drvicr like CD,HardDisc,flash memory
+4)c Charecter Device for device like keyboard
+5)p Named Pipe	for inter process communication
+6)s Socket for communication between 2 process from different computer
+7)l Link
+
+Users--------User Group Others
+Permissions
+r-read
+w-write
+x-executive
+
